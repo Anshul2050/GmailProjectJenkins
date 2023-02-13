@@ -1,0 +1,5 @@
+# Created at 2023-02-13T09:05:38.100
+Boot Manifest-JAR contains absolute paths in classpath 'E:\software testing notes\manual testing notes\Eclipsce Worksspace\Gmail_Project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

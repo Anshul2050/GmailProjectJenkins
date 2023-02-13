@@ -1,0 +1,463 @@
+# Created at 2023-02-13T09:32:30.213
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-02-13T09:32:31.658
+Unexpected IOException with stream: [
+
+# Created at 2023-02-13T09:32:31.659
+Unexpected IOException with stream: 1
+
+# Created at 2023-02-13T09:32:31.659
+Unexpected IOException with stream: 6
+
+# Created at 2023-02-13T09:32:31.661
+Unexpected IOException with stream: 7
+
+# Created at 2023-02-13T09:32:31.661
+Unexpected IOException with stream: 6
+
+# Created at 2023-02-13T09:32:31.662
+Unexpected IOException with stream: 2
+
+# Created at 2023-02-13T09:32:31.663
+Unexpected IOException with stream: 6
+
+# Created at 2023-02-13T09:32:31.664
+Unexpected IOException with stream: 0
+
+# Created at 2023-02-13T09:32:31.665
+Unexpected IOException with stream: 9
+
+# Created at 2023-02-13T09:32:31.665
+Unexpected IOException with stream: 5
+
+# Created at 2023-02-13T09:32:31.666
+Unexpected IOException with stream: 1
+
+# Created at 2023-02-13T09:32:31.667
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:31.668
+Unexpected IOException with stream: 6
+
+# Created at 2023-02-13T09:32:31.669
+Unexpected IOException with stream: 3
+
+# Created at 2023-02-13T09:32:31.670
+Unexpected IOException with stream: 3
+
+# Created at 2023-02-13T09:32:31.670
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-13T09:32:31.671
+Unexpected IOException with stream: [
+
+# Created at 2023-02-13T09:32:31.672
+Unexpected IOException with stream: W
+
+# Created at 2023-02-13T09:32:31.673
+Unexpected IOException with stream: A
+
+# Created at 2023-02-13T09:32:31.674
+Unexpected IOException with stream: R
+
+# Created at 2023-02-13T09:32:31.675
+Unexpected IOException with stream: N
+
+# Created at 2023-02-13T09:32:31.676
+Unexpected IOException with stream: I
+
+# Created at 2023-02-13T09:32:31.677
+Unexpected IOException with stream: N
+
+# Created at 2023-02-13T09:32:31.678
+Unexpected IOException with stream: G
+
+# Created at 2023-02-13T09:32:31.679
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-13T09:32:31.680
+Unexpected IOException with stream: :
+
+# Created at 2023-02-13T09:32:31.681
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:31.682
+Unexpected IOException with stream: T
+
+# Created at 2023-02-13T09:32:31.683
+Unexpected IOException with stream: i
+
+# Created at 2023-02-13T09:32:31.684
+Unexpected IOException with stream: m
+
+# Created at 2023-02-13T09:32:31.685
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:31.685
+Unexpected IOException with stream: d
+
+# Created at 2023-02-13T09:32:31.686
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:31.687
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:31.688
+Unexpected IOException with stream: u
+
+# Created at 2023-02-13T09:32:31.689
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:31.690
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:31.691
+Unexpected IOException with stream: c
+
+# Created at 2023-02-13T09:32:31.692
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:31.693
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:31.694
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:31.694
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:31.696
+Unexpected IOException with stream: c
+
+# Created at 2023-02-13T09:32:31.696
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:31.698
+Unexpected IOException with stream: i
+
+# Created at 2023-02-13T09:32:31.698
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:31.699
+Unexpected IOException with stream: g
+
+# Created at 2023-02-13T09:32:31.699
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:31.700
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:31.700
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:31.701
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:31.701
+Unexpected IOException with stream: C
+
+# Created at 2023-02-13T09:32:31.702
+Unexpected IOException with stream: h
+
+# Created at 2023-02-13T09:32:31.703
+Unexpected IOException with stream: r
+
+# Created at 2023-02-13T09:32:31.704
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:31.705
+Unexpected IOException with stream: m
+
+# Created at 2023-02-13T09:32:31.705
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:31.706
+Unexpected IOException with stream: ,
+
+# Created at 2023-02-13T09:32:31.707
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:31.707
+Unexpected IOException with stream: r
+
+# Created at 2023-02-13T09:32:31.708
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:31.708
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:31.709
+Unexpected IOException with stream: r
+
+# Created at 2023-02-13T09:32:31.710
+Unexpected IOException with stream: y
+
+# Created at 2023-02-13T09:32:31.710
+Unexpected IOException with stream: i
+
+# Created at 2023-02-13T09:32:31.711
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:31.712
+Unexpected IOException with stream: g
+
+# Created at 2023-02-13T09:32:31.712
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:31.713
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:31.714
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:31.715
+Unexpected IOException with stream: 
+
+# Created at 2023-02-13T09:32:31.716
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-13T09:32:39.730
+Unexpected IOException with stream: [
+
+# Created at 2023-02-13T09:32:39.730
+Unexpected IOException with stream: 1
+
+# Created at 2023-02-13T09:32:39.731
+Unexpected IOException with stream: 6
+
+# Created at 2023-02-13T09:32:39.732
+Unexpected IOException with stream: 7
+
+# Created at 2023-02-13T09:32:39.733
+Unexpected IOException with stream: 6
+
+# Created at 2023-02-13T09:32:39.734
+Unexpected IOException with stream: 2
+
+# Created at 2023-02-13T09:32:39.734
+Unexpected IOException with stream: 6
+
+# Created at 2023-02-13T09:32:39.735
+Unexpected IOException with stream: 0
+
+# Created at 2023-02-13T09:32:39.736
+Unexpected IOException with stream: 9
+
+# Created at 2023-02-13T09:32:39.737
+Unexpected IOException with stream: 5
+
+# Created at 2023-02-13T09:32:39.738
+Unexpected IOException with stream: 9
+
+# Created at 2023-02-13T09:32:39.739
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:39.739
+Unexpected IOException with stream: 7
+
+# Created at 2023-02-13T09:32:39.740
+Unexpected IOException with stream: 3
+
+# Created at 2023-02-13T09:32:39.741
+Unexpected IOException with stream: 0
+
+# Created at 2023-02-13T09:32:39.742
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-13T09:32:39.742
+Unexpected IOException with stream: [
+
+# Created at 2023-02-13T09:32:39.743
+Unexpected IOException with stream: W
+
+# Created at 2023-02-13T09:32:39.743
+Unexpected IOException with stream: A
+
+# Created at 2023-02-13T09:32:39.744
+Unexpected IOException with stream: R
+
+# Created at 2023-02-13T09:32:39.745
+Unexpected IOException with stream: N
+
+# Created at 2023-02-13T09:32:39.745
+Unexpected IOException with stream: I
+
+# Created at 2023-02-13T09:32:39.746
+Unexpected IOException with stream: N
+
+# Created at 2023-02-13T09:32:39.746
+Unexpected IOException with stream: G
+
+# Created at 2023-02-13T09:32:39.747
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-13T09:32:39.748
+Unexpected IOException with stream: :
+
+# Created at 2023-02-13T09:32:39.748
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:39.749
+Unexpected IOException with stream: T
+
+# Created at 2023-02-13T09:32:39.750
+Unexpected IOException with stream: i
+
+# Created at 2023-02-13T09:32:39.751
+Unexpected IOException with stream: m
+
+# Created at 2023-02-13T09:32:39.751
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:39.752
+Unexpected IOException with stream: d
+
+# Created at 2023-02-13T09:32:39.753
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:39.753
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:39.754
+Unexpected IOException with stream: u
+
+# Created at 2023-02-13T09:32:39.754
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:39.755
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:39.756
+Unexpected IOException with stream: c
+
+# Created at 2023-02-13T09:32:39.756
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:39.757
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:39.757
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:39.758
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:39.759
+Unexpected IOException with stream: c
+
+# Created at 2023-02-13T09:32:39.759
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:39.760
+Unexpected IOException with stream: i
+
+# Created at 2023-02-13T09:32:39.761
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:39.762
+Unexpected IOException with stream: g
+
+# Created at 2023-02-13T09:32:39.762
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:39.763
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:39.763
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:39.764
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:39.764
+Unexpected IOException with stream: C
+
+# Created at 2023-02-13T09:32:39.765
+Unexpected IOException with stream: h
+
+# Created at 2023-02-13T09:32:39.765
+Unexpected IOException with stream: r
+
+# Created at 2023-02-13T09:32:39.766
+Unexpected IOException with stream: o
+
+# Created at 2023-02-13T09:32:39.767
+Unexpected IOException with stream: m
+
+# Created at 2023-02-13T09:32:39.767
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:39.768
+Unexpected IOException with stream: ,
+
+# Created at 2023-02-13T09:32:39.768
+Unexpected IOException with stream:  
+
+# Created at 2023-02-13T09:32:39.769
+Unexpected IOException with stream: r
+
+# Created at 2023-02-13T09:32:39.769
+Unexpected IOException with stream: e
+
+# Created at 2023-02-13T09:32:39.770
+Unexpected IOException with stream: t
+
+# Created at 2023-02-13T09:32:39.770
+Unexpected IOException with stream: r
+
+# Created at 2023-02-13T09:32:39.771
+Unexpected IOException with stream: y
+
+# Created at 2023-02-13T09:32:39.771
+Unexpected IOException with stream: i
+
+# Created at 2023-02-13T09:32:39.772
+Unexpected IOException with stream: n
+
+# Created at 2023-02-13T09:32:39.772
+Unexpected IOException with stream: g
+
+# Created at 2023-02-13T09:32:39.773
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:39.773
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:39.774
+Unexpected IOException with stream: .
+
+# Created at 2023-02-13T09:32:39.774
+Unexpected IOException with stream: 
+
+# Created at 2023-02-13T09:32:39.775
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-13T09:32:44.055
+Unexpected IOException: 8,1,testLayer.LoginTest,launchApplication(testLayer.LoginTest),null,Could not start a new session. Response code 500. Message: disconnected: received Inspector.detached event\000A  (failed to check if window was closed: disconnected: unable to connect to renderer)\000A  (Session info: chrome=109.0.5414.120) \000AHost info: host: 'DESKTOP-U1VNJ3I'\002C ip: '192.168.29.175'\000ABuild info: version: '4.7.2'\002C revision: '4d4020c3b7'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.6'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}],null,Could not start a new session. Response code 500. Message: disconnected: received Inspector.detached event\000A  (failed to check if window was closed: disconnected: unable to connect to renderer)\000A  (Session info: chrome=109.0.5414.120) \000AHost info: host: 'DESKTOP-U1VNJ3I'\002C ip: '192.168.29.175'\000ABuild info: version: '4.7.2'\002C revision: '4d4020c3b7'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.6'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}],LoginTest>BaseTest.launchApplication:68->BaseTest.initialiseBrowser:49 \00BB SessionNotCreated,org.openqa.selenium.SessionNotCreatedException: \000ACould not start a new session. Response code 500. Message: disconnected: received Inspector.detached event\000A  (failed to check if window was closed: disconnected: unable to connect to renderer)\000A  (Session info: chrome=109.0.5414.120) \000AHost info: host: 'DESKTOP-U1VNJ3I'\002C ip: '192.168.29.175'\000ABuild info: version: '4.7.2'\002C revision: '4d4020c3b7'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.6'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}]\000A
+
+
+# Created at 2023-02-13T09:32:44.059
+Unexpected IOException: 5,1,testLayer.LoginTest,checkText(testLayer.LoginTest),testLayer.LoginTest,null,null
+
+
+# Created at 2023-02-13T09:32:44.061
+Unexpected IOException: 9,1,testLayer.LoginTest,checkText(testLayer.LoginTest),null,Could not start a new session. Response code 500. Message: disconnected: received Inspector.detached event\000A  (failed to check if window was closed: disconnected: unable to connect to renderer)\000A  (Session info: chrome=109.0.5414.120) \000AHost info: host: 'DESKTOP-U1VNJ3I'\002C ip: '192.168.29.175'\000ABuild info: version: '4.7.2'\002C revision: '4d4020c3b7'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.6'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [null\002C newSession {capabilities=[Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}]\002C desiredCapabilities=Capabilities {browserName: chrome\002C goog:chromeOptions: {args: []\002C extensions: []}}}],null
+
+
+# Created at 2023-02-13T09:32:44.067
+Unexpected IOException: 9,1,testLayer.LoginTest,CloseApplication(testLayer.LoginTest),null,null,null
+
+
+# Created at 2023-02-13T09:32:44.714
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,TestSuite,null,null,null
+
+
