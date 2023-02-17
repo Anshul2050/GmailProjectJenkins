@@ -9,7 +9,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
-	
+
 	<profiles>
 		<profile>
 			<id>Regression</id>
@@ -42,7 +42,7 @@
 	</profiles>
 
 	<dependencies>
-	<dependency>
+		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>8.0.32</version>
@@ -84,10 +84,21 @@
 
 
 	</dependencies>
-		<build>
+	<build>
 		<pluginManagement>
+
 			<!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
 			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.0.0-M9</version>
+					<configuration>
+						<suiteXmlFiles>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
+						</suiteXmlFiles>
+					</configuration>
+				</plugin>
 				<!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
 				<plugin>
 					<artifactId>maven-clean-plugin</artifactId>
@@ -98,7 +109,7 @@
 					<artifactId>maven-resources-plugin</artifactId>
 					<version>3.0.2</version>
 				</plugin>
-				
+
 				<plugin>
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>2.22.1</version>
@@ -125,22 +136,19 @@
 					<version>3.0.0</version>
 				</plugin>
 
-              <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <configuration>
-                <source>1.8</source>
-                <target>1.8</target>
-            </configuration>
-        </plugin>
-			
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<configuration>
+						<source>1.8</source>
+						<target>1.8</target>
+					</configuration>
+				</plugin>
 
 
 			</plugins>
 		</pluginManagement>
 	</build>
-
-	
 
 
 </project>
